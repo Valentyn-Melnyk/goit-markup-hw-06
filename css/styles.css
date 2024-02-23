@@ -467,6 +467,7 @@ textarea {
 }
 @media only screen and (min-width: 768px) {
   .our-team-list {
+    padding: 0 92px;
     flex-direction: row;
     flex-wrap: wrap;
     gap: 64px 24px;
